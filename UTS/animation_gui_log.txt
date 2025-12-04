@@ -1,0 +1,592 @@
+
+--- New Session 2025-11-25 20:28:44.783175 ---
+2025-11-25 20:28:48 | Animation started
+2025-11-25 20:28:48 | Running
+2025-11-25 20:28:48 | frame length=1 speed=0.05
+2025-11-25 20:28:48 | frame length=4 speed=0.05
+2025-11-25 20:28:48 | frame length=9 speed=0.05
+2025-11-25 20:28:48 | frame length=16 speed=0.05
+2025-11-25 20:28:48 | frame length=25 speed=0.05
+2025-11-25 20:28:48 | frame length=36 speed=0.05
+2025-11-25 20:28:48 | frame length=49 speed=0.05
+2025-11-25 20:28:48 | frame length=64 speed=0.05
+2025-11-25 20:28:48 | frame length=49 speed=0.05
+2025-11-25 20:28:48 | frame length=36 speed=0.05
+2025-11-25 20:28:48 | frame length=25 speed=0.05
+2025-11-25 20:28:48 | frame length=16 speed=0.05
+2025-11-25 20:28:48 | frame length=9 speed=0.05
+2025-11-25 20:28:48 | frame length=4 speed=0.05
+2025-11-25 20:28:48 | Cycle completed 1
+2025-11-25 20:28:48 | frame length=1 speed=0.05
+2025-11-25 20:28:49 | frame length=4 speed=0.05
+2025-11-25 20:28:49 | frame length=9 speed=0.05
+2025-11-25 20:28:49 | frame length=16 speed=0.05
+2025-11-25 20:28:49 | frame length=25 speed=0.05
+2025-11-25 20:28:49 | frame length=36 speed=0.05
+2025-11-25 20:28:49 | frame length=49 speed=0.05
+2025-11-25 20:28:49 | frame length=64 speed=0.05
+2025-11-25 20:28:49 | frame length=49 speed=0.05
+2025-11-25 20:28:49 | frame length=36 speed=0.05
+2025-11-25 20:28:49 | frame length=25 speed=0.05
+2025-11-25 20:28:49 | frame length=16 speed=0.05
+2025-11-25 20:28:49 | frame length=9 speed=0.05
+2025-11-25 20:28:49 | frame length=4 speed=0.05
+2025-11-25 20:28:49 | Cycle completed 2
+2025-11-25 20:28:49 | frame length=1 speed=0.05
+2025-11-25 20:28:49 | frame length=4 speed=0.05
+2025-11-25 20:28:49 | frame length=9 speed=0.05
+2025-11-25 20:28:50 | frame length=16 speed=0.05
+2025-11-25 20:28:50 | frame length=25 speed=0.05
+2025-11-25 20:28:50 | frame length=36 speed=0.05
+2025-11-25 20:28:50 | frame length=49 speed=0.05
+2025-11-25 20:28:50 | frame length=64 speed=0.05
+2025-11-25 20:28:50 | frame length=49 speed=0.05
+2025-11-25 20:28:50 | frame length=36 speed=0.05
+2025-11-25 20:28:50 | frame length=25 speed=0.05
+2025-11-25 20:28:50 | frame length=16 speed=0.05
+2025-11-25 20:28:50 | frame length=9 speed=0.05
+2025-11-25 20:28:50 | frame length=4 speed=0.05
+2025-11-25 20:28:50 | Cycle completed 3
+2025-11-25 20:28:50 | frame length=1 speed=0.05
+2025-11-25 20:28:50 | frame length=4 speed=0.05
+2025-11-25 20:28:50 | frame length=9 speed=0.05
+2025-11-25 20:28:50 | frame length=16 speed=0.05
+2025-11-25 20:28:50 | frame length=25 speed=0.05
+2025-11-25 20:28:51 | frame length=36 speed=0.05
+2025-11-25 20:28:51 | frame length=49 speed=0.05
+2025-11-25 20:28:51 | frame length=64 speed=0.05
+2025-11-25 20:28:51 | frame length=49 speed=0.05
+2025-11-25 20:28:51 | frame length=36 speed=0.05
+2025-11-25 20:28:51 | frame length=25 speed=0.05
+2025-11-25 20:28:51 | frame length=16 speed=0.05
+2025-11-25 20:28:51 | frame length=9 speed=0.05
+2025-11-25 20:28:51 | frame length=4 speed=0.05
+2025-11-25 20:28:51 | Cycle completed 4
+2025-11-25 20:28:51 | frame length=1 speed=0.05
+2025-11-25 20:28:51 | frame length=4 speed=0.05
+2025-11-25 20:28:51 | frame length=9 speed=0.05
+2025-11-25 20:28:51 | frame length=16 speed=0.05
+2025-11-25 20:28:51 | frame length=25 speed=0.05
+2025-11-25 20:28:51 | frame length=36 speed=0.05
+2025-11-25 20:28:51 | frame length=49 speed=0.05
+2025-11-25 20:28:52 | frame length=64 speed=0.05
+2025-11-25 20:28:52 | frame length=49 speed=0.05
+2025-11-25 20:28:52 | frame length=36 speed=0.05
+2025-11-25 20:28:52 | frame length=25 speed=0.05
+2025-11-25 20:28:52 | frame length=16 speed=0.05
+2025-11-25 20:28:52 | frame length=9 speed=0.05
+2025-11-25 20:28:52 | frame length=4 speed=0.05
+2025-11-25 20:28:52 | Cycle completed 5
+2025-11-25 20:28:52 | frame length=1 speed=0.05
+2025-11-25 20:28:52 | frame length=4 speed=0.05
+2025-11-25 20:28:52 | frame length=9 speed=0.05
+2025-11-25 20:28:52 | frame length=16 speed=0.05
+2025-11-25 20:28:52 | frame length=25 speed=0.05
+2025-11-25 20:28:52 | frame length=36 speed=0.05
+2025-11-25 20:28:52 | frame length=49 speed=0.05
+2025-11-25 20:28:52 | frame length=64 speed=0.05
+2025-11-25 20:28:52 | frame length=49 speed=0.05
+2025-11-25 20:28:53 | frame length=36 speed=0.05
+2025-11-25 20:28:53 | frame length=25 speed=0.05
+2025-11-25 20:28:53 | frame length=16 speed=0.05
+2025-11-25 20:28:53 | frame length=9 speed=0.05
+2025-11-25 20:28:53 | frame length=4 speed=0.05
+2025-11-25 20:28:53 | Cycle completed 6
+2025-11-25 20:28:53 | frame length=1 speed=0.05
+2025-11-25 20:28:53 | frame length=4 speed=0.05
+2025-11-25 20:28:53 | frame length=9 speed=0.05
+2025-11-25 20:28:53 | frame length=16 speed=0.05
+2025-11-25 20:28:53 | frame length=25 speed=0.05
+2025-11-25 20:28:53 | frame length=36 speed=0.05
+2025-11-25 20:28:53 | frame length=49 speed=0.05
+2025-11-25 20:28:53 | frame length=64 speed=0.05
+2025-11-25 20:28:53 | frame length=49 speed=0.05
+2025-11-25 20:28:53 | Speed set to 0.08s
+2025-11-25 20:28:53 | Speed set to 0.10s
+2025-11-25 20:28:53 | Speed set to 0.12s
+2025-11-25 20:28:53 | Speed set to 0.14s
+2025-11-25 20:28:53 | Speed set to 0.16s
+2025-11-25 20:28:53 | frame length=36 speed=0.15813953488372093
+2025-11-25 20:28:53 | Speed set to 0.18s
+2025-11-25 20:28:53 | Speed set to 0.19s
+2025-11-25 20:28:53 | Speed set to 0.20s
+2025-11-25 20:28:53 | Speed set to 0.22s
+2025-11-25 20:28:53 | Speed set to 0.22s
+2025-11-25 20:28:53 | Speed set to 0.23s
+2025-11-25 20:28:53 | Speed set to 0.24s
+2025-11-25 20:28:53 | Speed set to 0.24s
+2025-11-25 20:28:53 | Speed set to 0.25s
+2025-11-25 20:28:53 | Speed set to 0.26s
+2025-11-25 20:28:53 | Speed set to 0.26s
+2025-11-25 20:28:53 | Speed set to 0.27s
+2025-11-25 20:28:54 | Speed set to 0.27s
+2025-11-25 20:28:54 | frame length=25 speed=0.2720930232558139
+2025-11-25 20:28:54 | Speed set to 0.28s
+2025-11-25 20:28:54 | Speed set to 0.28s
+2025-11-25 20:28:54 | Speed set to 0.29s
+2025-11-25 20:28:54 | Speed set to 0.29s
+2025-11-25 20:28:54 | Speed set to 0.30s
+2025-11-25 20:28:54 | Speed set to 0.31s
+2025-11-25 20:28:54 | Speed set to 0.32s
+2025-11-25 20:28:54 | Speed set to 0.32s
+2025-11-25 20:28:54 | Speed set to 0.34s
+2025-11-25 20:28:54 | Speed set to 0.35s
+2025-11-25 20:28:54 | Speed set to 0.35s
+2025-11-25 20:28:54 | Speed set to 0.36s
+2025-11-25 20:28:54 | Speed set to 0.37s
+2025-11-25 20:28:54 | Speed set to 0.39s
+2025-11-25 20:28:54 | Speed set to 0.39s
+2025-11-25 20:28:54 | Speed set to 0.41s
+2025-11-25 20:28:54 | Speed set to 0.42s
+2025-11-25 20:28:54 | Speed set to 0.43s
+2025-11-25 20:28:54 | Speed set to 0.44s
+2025-11-25 20:28:54 | Speed set to 0.45s
+2025-11-25 20:28:54 | Speed set to 0.45s
+2025-11-25 20:28:54 | Speed set to 0.47s
+2025-11-25 20:28:54 | Speed set to 0.48s
+2025-11-25 20:28:54 | Speed set to 0.48s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | frame length=16 speed=0.5
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | Speed set to 0.50s
+2025-11-25 20:28:54 | frame length=9 speed=0.5
+2025-11-25 20:28:55 | frame length=4 speed=0.5
+2025-11-25 20:28:55 | Cycle completed 7
+2025-11-25 20:28:55 | frame length=1 speed=0.5
+2025-11-25 20:28:56 | frame length=4 speed=0.5
+2025-11-25 20:28:56 | Speed set to 0.49s
+2025-11-25 20:28:56 | Speed set to 0.48s
+2025-11-25 20:28:56 | Speed set to 0.47s
+2025-11-25 20:28:56 | Speed set to 0.45s
+2025-11-25 20:28:56 | Speed set to 0.44s
+2025-11-25 20:28:56 | Speed set to 0.43s
+2025-11-25 20:28:56 | Speed set to 0.41s
+2025-11-25 20:28:56 | Speed set to 0.40s
+2025-11-25 20:28:56 | Speed set to 0.39s
+2025-11-25 20:28:56 | Speed set to 0.37s
+2025-11-25 20:28:56 | Speed set to 0.37s
+2025-11-25 20:28:56 | Speed set to 0.36s
+2025-11-25 20:28:56 | Speed set to 0.35s
+2025-11-25 20:28:56 | Speed set to 0.34s
+2025-11-25 20:28:56 | Speed set to 0.33s
+2025-11-25 20:28:56 | Speed set to 0.33s
+2025-11-25 20:28:56 | Speed set to 0.32s
+2025-11-25 20:28:56 | Speed set to 0.32s
+2025-11-25 20:28:56 | Speed set to 0.31s
+2025-11-25 20:28:56 | Speed set to 0.31s
+2025-11-25 20:28:56 | Speed set to 0.30s
+2025-11-25 20:28:56 | Speed set to 0.29s
+2025-11-25 20:28:56 | Speed set to 0.29s
+2025-11-25 20:28:56 | Speed set to 0.28s
+2025-11-25 20:28:56 | Speed set to 0.27s
+2025-11-25 20:28:56 | Speed set to 0.27s
+2025-11-25 20:28:56 | frame length=9 speed=0.26639534883720933
+2025-11-25 20:28:56 | Speed set to 0.26s
+2025-11-25 20:28:56 | Speed set to 0.25s
+2025-11-25 20:28:56 | Speed set to 0.24s
+2025-11-25 20:28:56 | Speed set to 0.23s
+2025-11-25 20:28:56 | Speed set to 0.22s
+2025-11-25 20:28:56 | Speed set to 0.20s
+2025-11-25 20:28:56 | Speed set to 0.19s
+2025-11-25 20:28:56 | Speed set to 0.18s
+2025-11-25 20:28:56 | Speed set to 0.18s
+2025-11-25 20:28:56 | Speed set to 0.16s
+2025-11-25 20:28:56 | Speed set to 0.14s
+2025-11-25 20:28:56 | Speed set to 0.14s
+2025-11-25 20:28:56 | Speed set to 0.13s
+2025-11-25 20:28:56 | Speed set to 0.12s
+2025-11-25 20:28:57 | Speed set to 0.11s
+2025-11-25 20:28:57 | Speed set to 0.10s
+2025-11-25 20:28:57 | Speed set to 0.09s
+2025-11-25 20:28:57 | Speed set to 0.08s
+2025-11-25 20:28:57 | Speed set to 0.07s
+2025-11-25 20:28:57 | Speed set to 0.07s
+2025-11-25 20:28:57 | Speed set to 0.06s
+2025-11-25 20:28:57 | Speed set to 0.04s
+2025-11-25 20:28:57 | Speed set to 0.03s
+2025-11-25 20:28:57 | Speed set to 0.02s
+2025-11-25 20:28:57 | Speed set to 0.02s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | frame length=16 speed=0.01
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | frame length=25 speed=0.01
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | frame length=36 speed=0.01
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | frame length=49 speed=0.01
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | frame length=64 speed=0.01
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | frame length=49 speed=0.01
+2025-11-25 20:28:57 | frame length=36 speed=0.01
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | frame length=25 speed=0.01
+2025-11-25 20:28:57 | frame length=16 speed=0.01
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | frame length=9 speed=0.01
+2025-11-25 20:28:57 | Speed set to 0.01s
+2025-11-25 20:28:57 | frame length=4 speed=0.01
+2025-11-25 20:28:57 | Cycle completed 8
+2025-11-25 20:28:57 | frame length=1 speed=0.01
+2025-11-25 20:28:57 | frame length=4 speed=0.01
+2025-11-25 20:28:57 | frame length=9 speed=0.01
+2025-11-25 20:28:57 | frame length=16 speed=0.01
+2025-11-25 20:28:57 | frame length=25 speed=0.01
+2025-11-25 20:28:57 | frame length=36 speed=0.01
+2025-11-25 20:28:57 | frame length=49 speed=0.01
+2025-11-25 20:28:57 | frame length=64 speed=0.01
+2025-11-25 20:28:57 | frame length=49 speed=0.01
+2025-11-25 20:28:57 | frame length=36 speed=0.01
+2025-11-25 20:28:57 | frame length=25 speed=0.01
+2025-11-25 20:28:57 | frame length=16 speed=0.01
+2025-11-25 20:28:57 | frame length=9 speed=0.01
+2025-11-25 20:28:57 | frame length=4 speed=0.01
+2025-11-25 20:28:57 | Cycle completed 9
+2025-11-25 20:28:57 | frame length=1 speed=0.01
+2025-11-25 20:28:57 | frame length=4 speed=0.01
+2025-11-25 20:28:57 | frame length=9 speed=0.01
+2025-11-25 20:28:57 | frame length=16 speed=0.01
+2025-11-25 20:28:57 | frame length=25 speed=0.01
+2025-11-25 20:28:57 | frame length=36 speed=0.01
+2025-11-25 20:28:57 | frame length=49 speed=0.01
+2025-11-25 20:28:57 | frame length=64 speed=0.01
+2025-11-25 20:28:57 | frame length=49 speed=0.01
+2025-11-25 20:28:57 | frame length=36 speed=0.01
+2025-11-25 20:28:57 | frame length=25 speed=0.01
+2025-11-25 20:28:57 | frame length=16 speed=0.01
+2025-11-25 20:28:57 | frame length=9 speed=0.01
+2025-11-25 20:28:57 | frame length=4 speed=0.01
+2025-11-25 20:28:58 | Cycle completed 10
+2025-11-25 20:28:58 | frame length=1 speed=0.01
+2025-11-25 20:28:58 | frame length=4 speed=0.01
+2025-11-25 20:28:58 | frame length=9 speed=0.01
+2025-11-25 20:28:58 | frame length=16 speed=0.01
+2025-11-25 20:28:58 | frame length=25 speed=0.01
+2025-11-25 20:28:58 | frame length=36 speed=0.01
+2025-11-25 20:28:58 | frame length=49 speed=0.01
+2025-11-25 20:28:58 | frame length=64 speed=0.01
+2025-11-25 20:28:58 | frame length=49 speed=0.01
+2025-11-25 20:28:58 | frame length=36 speed=0.01
+2025-11-25 20:28:58 | frame length=25 speed=0.01
+2025-11-25 20:28:58 | frame length=16 speed=0.01
+2025-11-25 20:28:58 | frame length=9 speed=0.01
+2025-11-25 20:28:58 | frame length=4 speed=0.01
+2025-11-25 20:28:58 | Cycle completed 11
+2025-11-25 20:28:58 | frame length=1 speed=0.01
+2025-11-25 20:28:58 | frame length=4 speed=0.01
+2025-11-25 20:28:58 | frame length=9 speed=0.01
+2025-11-25 20:28:58 | frame length=16 speed=0.01
+2025-11-25 20:28:58 | frame length=25 speed=0.01
+2025-11-25 20:28:58 | frame length=36 speed=0.01
+2025-11-25 20:28:58 | frame length=49 speed=0.01
+2025-11-25 20:28:58 | frame length=64 speed=0.01
+2025-11-25 20:28:58 | frame length=49 speed=0.01
+2025-11-25 20:28:58 | frame length=36 speed=0.01
+2025-11-25 20:28:58 | frame length=25 speed=0.01
+2025-11-25 20:28:58 | frame length=16 speed=0.01
+2025-11-25 20:28:58 | frame length=9 speed=0.01
+2025-11-25 20:28:58 | frame length=4 speed=0.01
+2025-11-25 20:28:58 | Cycle completed 12
+2025-11-25 20:28:58 | frame length=1 speed=0.01
+2025-11-25 20:28:58 | frame length=4 speed=0.01
+2025-11-25 20:28:58 | frame length=9 speed=0.01
+2025-11-25 20:28:58 | frame length=16 speed=0.01
+2025-11-25 20:28:58 | frame length=25 speed=0.01
+2025-11-25 20:28:58 | frame length=36 speed=0.01
+2025-11-25 20:28:58 | frame length=49 speed=0.01
+2025-11-25 20:28:58 | frame length=64 speed=0.01
+2025-11-25 20:28:58 | frame length=49 speed=0.01
+2025-11-25 20:28:58 | frame length=36 speed=0.01
+2025-11-25 20:28:58 | frame length=25 speed=0.01
+2025-11-25 20:28:58 | frame length=16 speed=0.01
+2025-11-25 20:28:58 | frame length=9 speed=0.01
+2025-11-25 20:28:58 | frame length=4 speed=0.01
+2025-11-25 20:28:58 | Cycle completed 13
+2025-11-25 20:28:58 | frame length=1 speed=0.01
+2025-11-25 20:28:58 | frame length=4 speed=0.01
+2025-11-25 20:28:58 | frame length=9 speed=0.01
+2025-11-25 20:28:58 | frame length=16 speed=0.01
+2025-11-25 20:28:58 | frame length=25 speed=0.01
+2025-11-25 20:28:59 | frame length=36 speed=0.01
+2025-11-25 20:28:59 | frame length=49 speed=0.01
+2025-11-25 20:28:59 | frame length=64 speed=0.01
+2025-11-25 20:28:59 | frame length=49 speed=0.01
+2025-11-25 20:28:59 | frame length=36 speed=0.01
+2025-11-25 20:28:59 | frame length=25 speed=0.01
+2025-11-25 20:28:59 | frame length=16 speed=0.01
+2025-11-25 20:28:59 | frame length=9 speed=0.01
+2025-11-25 20:28:59 | frame length=4 speed=0.01
+2025-11-25 20:28:59 | Cycle completed 14
+2025-11-25 20:28:59 | frame length=1 speed=0.01
+2025-11-25 20:28:59 | frame length=4 speed=0.01
+2025-11-25 20:28:59 | frame length=9 speed=0.01
+2025-11-25 20:28:59 | frame length=16 speed=0.01
+2025-11-25 20:28:59 | frame length=25 speed=0.01
+2025-11-25 20:28:59 | frame length=36 speed=0.01
+2025-11-25 20:28:59 | frame length=49 speed=0.01
+2025-11-25 20:28:59 | frame length=64 speed=0.01
+2025-11-25 20:28:59 | frame length=49 speed=0.01
+2025-11-25 20:28:59 | frame length=36 speed=0.01
+2025-11-25 20:28:59 | frame length=25 speed=0.01
+2025-11-25 20:28:59 | frame length=16 speed=0.01
+2025-11-25 20:28:59 | frame length=9 speed=0.01
+2025-11-25 20:28:59 | frame length=4 speed=0.01
+2025-11-25 20:28:59 | Cycle completed 15
+2025-11-25 20:28:59 | frame length=1 speed=0.01
+2025-11-25 20:28:59 | frame length=4 speed=0.01
+2025-11-25 20:28:59 | frame length=9 speed=0.01
+2025-11-25 20:28:59 | frame length=16 speed=0.01
+2025-11-25 20:28:59 | frame length=25 speed=0.01
+2025-11-25 20:28:59 | frame length=36 speed=0.01
+2025-11-25 20:28:59 | frame length=49 speed=0.01
+2025-11-25 20:28:59 | frame length=64 speed=0.01
+2025-11-25 20:28:59 | frame length=49 speed=0.01
+2025-11-25 20:28:59 | frame length=36 speed=0.01
+2025-11-25 20:28:59 | frame length=25 speed=0.01
+2025-11-25 20:28:59 | frame length=16 speed=0.01
+2025-11-25 20:28:59 | frame length=9 speed=0.01
+2025-11-25 20:28:59 | frame length=4 speed=0.01
+2025-11-25 20:28:59 | Cycle completed 16
+2025-11-25 20:28:59 | frame length=1 speed=0.01
+2025-11-25 20:28:59 | frame length=4 speed=0.01
+2025-11-25 20:28:59 | frame length=9 speed=0.01
+2025-11-25 20:28:59 | frame length=16 speed=0.01
+2025-11-25 20:28:59 | frame length=25 speed=0.01
+2025-11-25 20:28:59 | frame length=36 speed=0.01
+2025-11-25 20:28:59 | frame length=49 speed=0.01
+2025-11-25 20:28:59 | frame length=64 speed=0.01
+2025-11-25 20:28:59 | frame length=49 speed=0.01
+2025-11-25 20:28:59 | frame length=36 speed=0.01
+2025-11-25 20:29:00 | frame length=25 speed=0.01
+2025-11-25 20:29:00 | frame length=16 speed=0.01
+2025-11-25 20:29:00 | frame length=9 speed=0.01
+2025-11-25 20:29:00 | frame length=4 speed=0.01
+2025-11-25 20:29:00 | Cycle completed 17
+2025-11-25 20:29:00 | frame length=1 speed=0.01
+2025-11-25 20:29:00 | frame length=4 speed=0.01
+2025-11-25 20:29:00 | frame length=9 speed=0.01
+2025-11-25 20:29:00 | frame length=16 speed=0.01
+2025-11-25 20:29:00 | frame length=25 speed=0.01
+2025-11-25 20:29:00 | frame length=36 speed=0.01
+2025-11-25 20:29:00 | frame length=49 speed=0.01
+2025-11-25 20:29:00 | frame length=64 speed=0.01
+2025-11-25 20:29:00 | frame length=49 speed=0.01
+2025-11-25 20:29:00 | Paused
+2025-11-25 20:29:04 | Random pattern ON
+2025-11-25 20:29:13 | Running
+2025-11-25 20:29:13 | frame length=36 speed=0.01
+2025-11-25 20:29:13 | frame length=25 speed=0.01
+2025-11-25 20:29:13 | frame length=16 speed=0.01
+2025-11-25 20:29:13 | frame length=9 speed=0.01
+2025-11-25 20:29:13 | frame length=4 speed=0.01
+2025-11-25 20:29:13 | Cycle completed 18
+2025-11-25 20:29:13 | frame length=61 speed=0.01
+2025-11-25 20:29:13 | frame length=9 speed=0.01
+2025-11-25 20:29:13 | frame length=13 speed=0.01
+2025-11-25 20:29:13 | frame length=48 speed=0.01
+2025-11-25 20:29:13 | frame length=61 speed=0.01
+2025-11-25 20:29:13 | frame length=35 speed=0.01
+2025-11-25 20:29:13 | frame length=14 speed=0.01
+2025-11-25 20:29:13 | frame length=51 speed=0.01
+2025-11-25 20:29:13 | frame length=43 speed=0.01
+2025-11-25 20:29:13 | frame length=15 speed=0.01
+2025-11-25 20:29:13 | frame length=34 speed=0.01
+2025-11-25 20:29:13 | frame length=26 speed=0.01
+2025-11-25 20:29:13 | Cycle completed 19
+2025-11-25 20:29:13 | frame length=46 speed=0.01
+2025-11-25 20:29:13 | frame length=49 speed=0.01
+2025-11-25 20:29:13 | frame length=60 speed=0.01
+2025-11-25 20:29:13 | frame length=50 speed=0.01
+2025-11-25 20:29:13 | frame length=19 speed=0.01
+2025-11-25 20:29:13 | frame length=64 speed=0.01
+2025-11-25 20:29:13 | frame length=37 speed=0.01
+2025-11-25 20:29:13 | frame length=18 speed=0.01
+2025-11-25 20:29:13 | frame length=42 speed=0.01
+2025-11-25 20:29:13 | frame length=63 speed=0.01
+2025-11-25 20:29:14 | frame length=7 speed=0.01
+2025-11-25 20:29:14 | frame length=43 speed=0.01
+2025-11-25 20:29:14 | Cycle completed 20
+2025-11-25 20:29:14 | frame length=61 speed=0.01
+2025-11-25 20:29:14 | frame length=38 speed=0.01
+2025-11-25 20:29:14 | frame length=25 speed=0.01
+2025-11-25 20:29:14 | frame length=29 speed=0.01
+2025-11-25 20:29:14 | frame length=30 speed=0.01
+2025-11-25 20:29:14 | frame length=57 speed=0.01
+2025-11-25 20:29:14 | frame length=25 speed=0.01
+2025-11-25 20:29:14 | frame length=14 speed=0.01
+2025-11-25 20:29:14 | frame length=63 speed=0.01
+2025-11-25 20:29:14 | frame length=17 speed=0.01
+2025-11-25 20:29:14 | frame length=40 speed=0.01
+2025-11-25 20:29:14 | frame length=33 speed=0.01
+2025-11-25 20:29:14 | Cycle completed 21
+2025-11-25 20:29:14 | frame length=20 speed=0.01
+2025-11-25 20:29:14 | frame length=31 speed=0.01
+2025-11-25 20:29:14 | frame length=46 speed=0.01
+2025-11-25 20:29:14 | frame length=9 speed=0.01
+2025-11-25 20:29:14 | frame length=50 speed=0.01
+2025-11-25 20:29:14 | frame length=45 speed=0.01
+2025-11-25 20:29:14 | frame length=63 speed=0.01
+2025-11-25 20:29:14 | frame length=29 speed=0.01
+2025-11-25 20:29:14 | frame length=64 speed=0.01
+2025-11-25 20:29:14 | frame length=26 speed=0.01
+2025-11-25 20:29:14 | frame length=26 speed=0.01
+2025-11-25 20:29:14 | frame length=16 speed=0.01
+2025-11-25 20:29:14 | Cycle completed 22
+2025-11-25 20:29:14 | frame length=58 speed=0.01
+2025-11-25 20:29:14 | frame length=25 speed=0.01
+2025-11-25 20:29:14 | frame length=42 speed=0.01
+2025-11-25 20:29:14 | frame length=51 speed=0.01
+2025-11-25 20:29:14 | frame length=23 speed=0.01
+2025-11-25 20:29:14 | frame length=22 speed=0.01
+2025-11-25 20:29:14 | frame length=45 speed=0.01
+2025-11-25 20:29:14 | frame length=41 speed=0.01
+2025-11-25 20:29:14 | frame length=17 speed=0.01
+2025-11-25 20:29:14 | frame length=44 speed=0.01
+2025-11-25 20:29:14 | frame length=55 speed=0.01
+2025-11-25 20:29:14 | frame length=59 speed=0.01
+2025-11-25 20:29:14 | Cycle completed 23
+2025-11-25 20:29:14 | frame length=64 speed=0.01
+2025-11-25 20:29:14 | frame length=57 speed=0.01
+2025-11-25 20:29:14 | frame length=41 speed=0.01
+2025-11-25 20:29:14 | frame length=58 speed=0.01
+2025-11-25 20:29:14 | frame length=52 speed=0.01
+2025-11-25 20:29:14 | frame length=26 speed=0.01
+2025-11-25 20:29:14 | frame length=9 speed=0.01
+2025-11-25 20:29:14 | frame length=47 speed=0.01
+2025-11-25 20:29:14 | frame length=11 speed=0.01
+2025-11-25 20:29:15 | frame length=12 speed=0.01
+2025-11-25 20:29:15 | frame length=64 speed=0.01
+2025-11-25 20:29:15 | frame length=38 speed=0.01
+2025-11-25 20:29:15 | Cycle completed 24
+2025-11-25 20:29:15 | frame length=36 speed=0.01
+2025-11-25 20:29:15 | frame length=36 speed=0.01
+2025-11-25 20:29:15 | frame length=57 speed=0.01
+2025-11-25 20:29:15 | frame length=4 speed=0.01
+2025-11-25 20:29:15 | frame length=5 speed=0.01
+2025-11-25 20:29:15 | frame length=31 speed=0.01
+2025-11-25 20:29:15 | frame length=5 speed=0.01
+2025-11-25 20:29:15 | frame length=14 speed=0.01
+2025-11-25 20:29:15 | frame length=57 speed=0.01
+2025-11-25 20:29:15 | frame length=36 speed=0.01
+2025-11-25 20:29:15 | Speed set to 0.02s
+2025-11-25 20:29:15 | Speed set to 0.05s
+2025-11-25 20:29:15 | Speed set to 0.08s
+2025-11-25 20:29:15 | frame length=2 speed=0.0783720930232558
+2025-11-25 20:29:15 | Speed set to 0.11s
+2025-11-25 20:29:15 | Speed set to 0.14s
+2025-11-25 20:29:15 | Speed set to 0.18s
+2025-11-25 20:29:15 | Speed set to 0.20s
+2025-11-25 20:29:15 | Speed set to 0.23s
+2025-11-25 20:29:15 | Speed set to 0.25s
+2025-11-25 20:29:15 | Speed set to 0.27s
+2025-11-25 20:29:15 | Speed set to 0.29s
+2025-11-25 20:29:15 | Speed set to 0.33s
+2025-11-25 20:29:15 | Speed set to 0.35s
+2025-11-25 20:29:15 | Speed set to 0.38s
+2025-11-25 20:29:15 | Speed set to 0.39s
+2025-11-25 20:29:15 | frame length=41 speed=0.3917441860465117
+2025-11-25 20:29:15 | Speed set to 0.42s
+2025-11-25 20:29:15 | Speed set to 0.44s
+2025-11-25 20:29:15 | Speed set to 0.45s
+2025-11-25 20:29:15 | Speed set to 0.48s
+2025-11-25 20:29:15 | Speed set to 0.48s
+2025-11-25 20:29:15 | Speed set to 0.49s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Speed set to 0.50s
+2025-11-25 20:29:15 | Cycle completed 25
+2025-11-25 20:29:15 | frame length=30 speed=0.5
+2025-11-25 20:29:16 | frame length=40 speed=0.5
+2025-11-25 20:29:16 | frame length=40 speed=0.5
+2025-11-25 20:29:17 | frame length=10 speed=0.5
+2025-11-25 20:29:17 | frame length=5 speed=0.5
+2025-11-25 20:29:18 | frame length=47 speed=0.5
+2025-11-25 20:29:18 | frame length=44 speed=0.5
+2025-11-25 20:29:19 | frame length=17 speed=0.5
+2025-11-25 20:29:19 | frame length=30 speed=0.5
+2025-11-25 20:29:20 | frame length=43 speed=0.5
+2025-11-25 20:29:20 | Cycle completed 26
+2025-11-25 20:29:20 | Animation stopped
+
+--- New Session 2025-11-25 20:31:02.923353 ---

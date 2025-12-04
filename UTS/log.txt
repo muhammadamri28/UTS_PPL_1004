@@ -1,0 +1,6 @@
+[2025-11-25 21:26:06] Animation stopped
+[2025-11-25 21:26:13] Animation started
+[2025-11-25 21:26:20] Animation started
+[2025-11-25 21:26:24] Animation started
+[2025-11-25 21:26:31] Animation stopped
+[2025-11-25 21:26:35] Animation stopped
